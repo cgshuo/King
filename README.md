@@ -26,7 +26,7 @@ King是一个智能问答系统
 平台地址[：http://111.231.105.18/main](http://111.231.105.18/main)
 
 ### 系统方案
-该系统基于Python的Django框架，前端运用jQuery与Bootstrap框架，数据库采用Sqllite，大多数请求基于Ajax异步刷新。
+该系统基于Python的Django框架，前端运用jQuery与Bootstrap框架，数据库采用Sqlite，大多数请求基于Ajax异步刷新。
 采用的技术主要有：
 - Django是一款开源的，基于Python的高级 Web框架，其倾向于快速、整洁与实用的开发风格。Django框架解决了Web开发中大量的琐碎问题，使得开发者可以关注与开发Web应用本身而避免了重复造轮子的痛苦。
 - SQLite，是一款轻型的数据库，是遵守ACID的关系型数据库管理系统，它包含在一个相对小的C库中。有ODBC接口，同样比起MySQL、PostgreSQL这两款开源的世界著名数据库管理系统来讲，它的处理速度比他们都快。
