@@ -21,7 +21,7 @@ King是一个智能问答系统
 
 ![image](https://github.com/dominose/King/blob/master/readme/QQ%E5%9B%BE%E7%89%8720180703212831.png)
 
-系统部署在云服务器中。你可以进入我们的管理平台查看
+系统部署在云服务器中。可以进入我们的管理平台查看
 
 平台地址[：http://111.231.105.18/main](http://111.231.105.18/main)
 
